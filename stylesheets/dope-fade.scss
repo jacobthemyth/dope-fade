@@ -1,0 +1,10 @@
+@import "bourbon/bourbon";
+
+.dope-fade {
+  opacity: 0;
+  @include transition(opacity 700ms ease-in);
+}
+
+.dope-fade-load {
+  opacity: 1;
+}

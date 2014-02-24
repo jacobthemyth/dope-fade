@@ -1,0 +1,8 @@
+.dope-fade {
+  opacity: 0;
+  -webkit-transition: opacity 700ms ease-in;
+  -moz-transition: opacity 700ms ease-in;
+  transition: opacity 700ms ease-in; }
+
+.dope-fade-load {
+  opacity: 1; }
